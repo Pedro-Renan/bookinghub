@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Docker volumes
+pgdata/
+wal_archive/
+
+# Backups gerados
+backup/dumps/
+backup/basebackup/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Relatório (copiar manualmente)
+relatorio.pdf
