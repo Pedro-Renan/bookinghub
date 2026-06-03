@@ -4,13 +4,13 @@ Plataforma de reservas de hotéis e passagens aéreas com foco em **alta concorr
 
 ## Equipe
 
-| Nome | Responsabilidade |
+| Nome | Matrícula |
 |------|-----------------|
-| Pedro Henrique Melo Costa | Arquitetura geral e API |
-| Ana Carolina Ferreira Lima | Modelo de dados e seed |
-| João Victor Andrade Souza | Índices e otimização |
-| Mariana Pinto Rodrigues | Transações e concorrência |
-| Lucas Bezerra de Oliveira | Recuperação de falhas |
+| Pedro Renan Rodrigues da Silva | 2024010358 |
+| Pablo Kayky Brito | 2024010200 |
+| João Victor Crispim Pinheiro | 2024010257 |
+| Julio Henrique Rodrigues Fernandes | 2024010001 |
+| Gabriel da Siva Almeida| 2024010458 |
 
 ## Stack
 
